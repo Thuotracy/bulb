@@ -1,6 +1,14 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+}
+
 #container{
-    height: 1000px;
-    width: 1000px;
+    height: 400px;
+    width: 800px;
     margin: auto;
     text-align: center;
 }
@@ -18,3 +26,4 @@
     background: url('lightbulb-on.png') no-repeat;
     margin: auto;  
 }
+
