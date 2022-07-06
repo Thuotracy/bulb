@@ -8,6 +8,13 @@
 .bulb-off{
     width: 500px;
     height: 700px;
-    background: url('lightbulb-off.png') no-repeat;    margin: auto;
+    background: url('lightbulb-off.png') no-repeat;
+    margin: auto;
+}
 
+.bulb-on{
+    width: 500px;
+    height: 700px;
+    background: url('lightbulb-on.png') no-repeat;
+    margin: auto;  
 }
