@@ -1,0 +1,13 @@
+#container{
+    height: 1000px;
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+}
+
+.bulb-off{
+    width: 500px;
+    height: 700px;
+    background: url('lightbulb-off.png') no-repeat;    margin: auto;
+
+}
